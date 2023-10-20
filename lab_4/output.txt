@@ -1,0 +1,5 @@
+лесть - ﻿apple, soap, xxx
+мыло - soap, foam
+пена - foam, xxx
+слон - ﻿apple
+яблоко - ﻿apple
